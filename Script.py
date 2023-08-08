@@ -292,7 +292,11 @@ Name - {}
 ★Requested by</b> : {message.from_user.mention}
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :- <code>{file_name}</code>
+    CUSTOM_FILE_CAPTION = """<b>𝓗𝓮𝔂 <code>{mention}<code>👋
+    
+    📂 Fɪʟᴇ ɴᴀᴍᴇ :- <code>{file_name}</code>
+
+    ➤ Sɪᴢᴇ :- <code>{file_size}<code>
     
      🌟༺ ──•◈•─ ─•◈•──༻🌟
 
