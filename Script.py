@@ -10,7 +10,7 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Malayali_No2>✑ മലയꫂള ᭄℡𓆈</a>
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/M_MOVIES_24>Tᴏᴜᴄʜ</a>
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/P_H_Movies>Tᴏᴜᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -171,7 +171,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by @M_MOVIES_24"""
+ <i>This feature added by @P_H_Movies"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -301,8 +301,8 @@ Name - {}
 ➧ പുതിയ സിനിമകൾ / വെബ്‌ സീരീസ് വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
 
 ╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-💥 𝙅𝙊𝙄𝙉 :- @M_MOVIES_24
-💥 𝙅𝙊𝙄𝙉 :- @mallumovies_1
+💥 𝙅𝙊𝙄𝙉 :- <a href=https://t.me/+g4T8qKy5Gow3MjVl>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
+💥 𝙅𝙊𝙄𝙉 :- <a href=https://t.me/+M9aLM61fACwwZWY1>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄</a>
 ╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
@@ -366,7 +366,7 @@ Name - {}
 ➪ /pbatch ›› <b>𝚄𝚂𝙴 𝚈𝙾𝚄𝚁 𝙼𝙴𝙳𝙸𝙰 𝙻𝙸𝙽𝙺 𝚆𝙸𝚃𝙷 𝚃𝙷𝙸𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳.</b>
 ➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
-<code>/batch https://t.me/M_MOVIES_24 https://t.me/M_MOVIES_24</code>
+<code>/batch https://t.me/P_H_Movies https://t.me/P_H_Movies</code>
 
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href='https://t.me/Malayali_No2'><b>✑ മലയꫂള ᭄℡𓆈</b></a>"""
     NORSLTS = """
