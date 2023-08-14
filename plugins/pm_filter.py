@@ -486,9 +486,6 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                     return
                 else:
-                    await query.answer(f"Hᴇʏ {query.from_user.first_name}, Tʜɪs Is Nᴏᴛ Yᴏᴜʀ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ. Rᴇǫᴜᴇsᴛ Yᴏᴜʀ's !", show_alert=True)
-            else:
-                if clicked == typed:
                     await client.send_cached_media(
                         chat_id=query.from_user.id,
                         file_id=file_id,
@@ -743,15 +740,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᴏᴡɴᴇʀ🧑‍💻', url='https://t.me/Malayali_No2')
+            InlineKeyboardButton('𝑺𝑬𝑨𝑹𝑪𝑯☄', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('♧ ᎧᏇᏁᏋᏒ', url='https://t.me/Malayali_No2')
             ],[
-            InlineKeyboardButton('💠ʜᴇʟᴘ💠', callback_data='help2'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ🌿', callback_data='about')
+            InlineKeyboardButton('💠 HΞLᎮ 💠', callback_data='help2'),
+            InlineKeyboardButton('༒ ΛBOUT ༒', callback_data='about')
             ],[
-            InlineKeyboardButton('Mᴏᴠɪᴇ Gʀᴏᴜᴘ🍿', url='https://t.me/mallumovies_1')
+            InlineKeyboardButton('ᗰOᐯIᗴ GᏒԾUᎮ🍿', url='https://t.me/mallumovies_1')
          ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
