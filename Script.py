@@ -9,7 +9,7 @@ class script(object):
 # ⚠️ Please don't change our credits 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Malayali_No2>✑ മലയꫂള ᭄℡𓆈</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Malayali_No2>✑ മലയꫂള ᭄℡</a>
 ✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂: <a href=https://t.me/P_H_Movies>Tᴏᴜᴄʜ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
