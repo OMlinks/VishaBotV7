@@ -745,13 +745,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('𝑺𝑬𝑨𝑹𝑪𝑯☄', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('♧ ᎧᏇᏁᏋᏒ', url='https://t.me/Malayali_No2')
+            InlineKeyboardButton('🛰 𝑺𝑬𝑨𝑹𝑪𝑯 🛰', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🛡 ᎧᏇᏁᏋᏒ 🛡', url='https://t.me/Malayali_No2')
             ],[
             InlineKeyboardButton('💠 HΞLᎮ 💠', callback_data='help2'),
             InlineKeyboardButton('༒ ΛBOUT ༒', callback_data='about')
             ],[
-            InlineKeyboardButton('ᗰOᐯIᗴ GᏒԾUᎮ🍿', url='https://t.me/mallumovies_1')
+            InlineKeyboardButton('🍿 ᗰOᐯIᗴ GᏒԾUᎮ 🍿', url='https://t.me/mallumovies_1')
          ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
