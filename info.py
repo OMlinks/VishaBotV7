@@ -107,7 +107,7 @@ JOIN_REQS_DB = environ.get("JOIN_REQS_DB", DATABASE_URI)
 #No_result
 NO_RESULTS_MSG = bool(environ.get('NO_RESULTS_MSG', True))
 NO_RESULTS_CHANNEL = int(environ.get("NO_RESULTS_CHANNEL", "-1001615904511"))
-BUTTON_LOCK = bool(environ.get("BUTTON_LOCK", False))
+BUTTON_LOCK = bool(environ.get("BUTTON_LOCK", True))
 
 # Others
 
