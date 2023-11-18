@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/c5ae0bad71b171f7d30ef.jpg" alt="Ꭾ๏๏ςђคBotz LOGO">
 </p>
 <h1 align="center">
-  <b> 𝙋𝙀𝙏𝙀𝙍 𝙋𝘼𝙍𝙆𝙀𝙍 𝐁𝐎𝐓</b>
+  <b> 𝐏𝐎𝐎𝐂𝐇𝐀 𝐁𝐎𝐓</b>
 </h1>
 
 <a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"><img src="https://img.shields.io/github/stars/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -96,5 +96,5 @@ group_broadcast - to broadcast a message to all groups
 
 ## TELAGRAM SUPPORT 
 
-* [![Matrix BOTZ](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/MLZ_BOTZ_SUPPORT)
+* [![Matrix BOTZ](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/Malayali_No2)
 
