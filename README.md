@@ -96,5 +96,5 @@ group_broadcast - to broadcast a message to all groups
 
 ## TELAGRAM SUPPORT 
 
-* [![Matrix BOTZ](https://img.shields.io/static/v1?label=MATRIX&message=BOTZ&color=critical)](https://t.me/Malayali_No2)
+* [![Matrix BOTZ](https://img.shields.io/static/v1?label=mmovies23&message=𓅥&color=critical)](https://t.me/Malayali_No2)
 
