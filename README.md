@@ -1,56 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑇𝐻𝐼𝑆+𝐼𝑆+Ꭾ๏๏ςђค+𝐵𝑂𝑇!;𝐶𝑅𝐸𝐴𝑇𝐸𝐷+𝐵𝑌+𝑀_𝑀𝑂𝑉𝐼𝐸𝑆_𝟮𝟯𓅥;𝐴+𝑃𝑂𝑊𝐸𝑅𝐹𝑈𝐿𝐿+𝑇𝐺+𝐴𝑈𝑇𝑂𝐹𝐼𝐿𝑇𝐸𝑅+𝐵𝑂𝑇!)</p>
-<p align="center">
-  <img src="https://telegra.ph/file/c5ae0bad71b171f7d30ef.jpg" alt="Ꭾ๏๏ςђคBotz LOGO">
-</p>
-<h1 align="center">
-  <b> 𝐏𝐎𝐎𝐂𝐇𝐀 𝐁𝐎𝐓</b>
-</h1>
 
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"><img src="https://img.shields.io/github/stars/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/network/members"> <img src="https://img.shields.io/github/forks/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"> <img src="https://img.shields.io/github/repo-size/matrixbotz0/PETER-PARKER-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>   
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/commit/main"> <img src="https://img.shields.io/github/last-commit/matrixbotz0/PETER-PARKER-BOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT"> <img src="https://img.shields.io/github/contributors/matrixbotz0/PETER-PARKER-BOT?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/matrixbotz0/PETER-PARKER-BOT/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-
-
-## Features
-
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] predvd delete options
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] Custom File Caption
-
-### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-* `Support Chat` : Username of a Support Group / ADMIN. ( Should be username without @ and not ID
-### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* `USE_CAPTION_FILTER` : Whether bot should use captions to improve search results. (True False)
-* `CUSTOM_FILE_CAPTION` : A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding
-* `CACHE_TIME` : The maximum amount of time in seconds that the result of the inline query may be cached on the server
-* `IMDB` : Imdb, the view of information when making True/False
-* `SINGLE_BUTTON` : choose b/w single or double buttons 
-* `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 
 ## Deploy to Heroku 
 
@@ -60,9 +8,7 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/matrixbotz0/PETER-PARKER-BOT)
 
-## Deploy to Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/PETER-PARKER-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=PETER-PARKER-botz&env[FORCE_SUB]&env[START_PIC]&env[PORT]=8080&run_command=python%20bot.py&branch=main&name=PETER-PARKER) 
 ## Commands
 ```
 start - check bot alive
@@ -94,7 +40,4 @@ broadcast - to broadcast a message to all users
 group_broadcast - to broadcast a message to all groups
 ```
 
-## TELAGRAM SUPPORT 
-
-* [![Matrix BOTZ](https://img.shields.io/static/v1?label=mmovies23&message=𓅥&color=critical)](https://t.me/Malayali_No2)
 
